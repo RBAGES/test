@@ -1,0 +1,1 @@
+Ceci est un fichier crée avec la commande cat, la syntax est > notes.txt ce qui permet d'écrire directement à l'intérieur lors de la création du fichier.

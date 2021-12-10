@@ -1,0 +1,5 @@
+Je peux écrire enfin bordel c'est pas facile avec Vim, les raccourcis sont hyper chelous.
+Esc > normal mode
+i > insertion mode 
+: > command line mode
+:wq > quitter en sauvegardant
